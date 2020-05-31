@@ -407,12 +407,6 @@ return [
         'login-captcha' => [
             // set to false if you want to disable this extension
             'enable' => true,
-        ],
-        'composer-viewer' => [
-            // Set this to false if you want to disable this extension
-            'enable' => true,
-            // Set the location of composer command
-            'which-composer' => '/usr/local/bin/composer', // !! it's important !!
         ]
     ],
 ];
